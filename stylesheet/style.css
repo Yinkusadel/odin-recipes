@@ -1,0 +1,52 @@
+div {
+background-color: red;
+color:white;
+font-size: 32px;
+text-align: center;
+font-weight: bold;
+    }
+     
+    .odd {
+       background-color:rgb(255,192,203);
+       font-family: Verdana,"DejaVu Sans",sans-serif;
+      }
+
+    #second {
+color: #0000FF;
+font-size: 36px;
+    }
+
+    .odder {
+        font-size:28px;
+       }
+
+    #forth{
+        background-color:rgb(144,238,144) ;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .clickable{
+        color: white;
+        background-color: black;
+    }
+
+    .unclickable{
+        background-color: yellow;
+    }
+
+    .clickable,
+    .unclickable{
+        font-size: 28px;
+        font-family: 'Times New Roman', Helvetica, sans-serif;
+    }
+
+    .avatar.proportioned{
+        height:auto;
+        width:300px;
+    }
+
+    .avatar .distorted{
+        height: 400px;
+        width: 200px;
+    }
